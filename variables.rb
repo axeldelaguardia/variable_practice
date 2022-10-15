@@ -11,3 +11,7 @@ dob_year = 1991
 float = 1.4
 decimal = 3.6
 pi = 3.14
+
+lives_in_denver = true
+future_developer = true
+knows_ruby = false
