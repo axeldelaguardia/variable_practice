@@ -15,3 +15,11 @@ pi = 3.14
 lives_in_denver = true
 future_developer = true
 knows_ruby = false
+
+name = 'Malia'
+last_name = 'Kainoa'
+dob_month = 'September'
+
+puts (name)
+puts(pi)
+puts(dob_month)
